@@ -42,7 +42,6 @@ export const EXTRA_LINKS = {
   X: "https://x.com/Galahtv",
   Behance: "https://www.behance.net/GalahStudio",
   Linkedin: "https://www.linkedin.com/in/sanidhyy",
-  Github: "https://github.com/sanidhyy",
   Resume: "/resume.pdf",
   SourceCode: "https://github.com/sanidhyy/portfolio",
   Email: "sanidhya.verma12345@gmail.com",

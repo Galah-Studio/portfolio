@@ -37,6 +37,11 @@ export const LINKS = [
 
 // External links
 export const EXTRA_LINKS = {
+
+  YouTube: "https://www.youtube.com/@Galah-Studio",
+  Instagram: "https://www.instagram.com/galah.tv",
+  X: "https://x.com/Galahtv",
+  Behance: "https://www.behance.net/GalahStudio",
   linkedin: "https://www.linkedin.com/in/sanidhyy",
   github: "https://github.com/sanidhyy",
   resume: "/resume.pdf",

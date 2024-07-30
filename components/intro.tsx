@@ -1,4 +1,3 @@
-// Import necessary dependencies
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
@@ -6,7 +5,6 @@ import { FaTwitter, FaInstagram, FaYoutube, FaLinkedin } from "react-icons/fa";
 import { HiDownload } from "react-icons/hi";
 import { EXTRA_LINKS } from "@/constants";
 
-// Define the Intro component
 const Intro = () => {
   return (
     <section id="home" className="text-center">
@@ -31,7 +29,7 @@ const Intro = () => {
         </motion.div>
         <div className="flex justify-center space-x-4 mb-8">
           <Link href={EXTRA_LINKS.Youtube} target="_blank" rel="noreferrer noopener">
-          <FaYoutube className="text-3xl text-gray-600 hover:text-red-600" />
+            <FaYoutube className="text-3xl text-gray-600 hover:text-red-600" />
           </Link>
           <Link href={EXTRA_LINKS.Instagram} target="_blank" rel="noreferrer noopener">
             <FaInstagram className="text-3xl text-gray-600 hover:text-pink-600" />
@@ -44,7 +42,7 @@ const Intro = () => {
           </Link>
         </div>
         <Link
-          href={EXTRA_LINKS.CV}
+          href={EXTRA_LINKS.Resume}
           className="inline-flex items-center text-lg font-semibold text-white bg-blue-600 px-6 py-3 rounded-lg shadow-lg hover:bg-blue-700"
           target="_blank"
           rel="noreferrer noopener"
@@ -56,5 +54,4 @@ const Intro = () => {
   );
 };
 
-// Export the Intro component
 export default Intro;

@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   } is a full-stack developer with 4 years of experience.`,
   authors: {
     name: OWNER_NAME,
-    url: EXTRA_LINKS.github,
+    url: "https://www.google.com/",
   },
   keywords: [
     "reactjs",

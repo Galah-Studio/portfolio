@@ -129,4 +129,4 @@ export const SKILLS_DATA = [
 ] as const;
 
 // Owner name
-export const OWNER_NAME = "Sanidhya Kumar Verma";
+export const OWNER_NAME = "Galah Studio";

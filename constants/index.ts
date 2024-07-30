@@ -37,17 +37,17 @@ export const LINKS = [
 
 // External links
 export const EXTRA_LINKS = {
-
   Youtube: "https://www.youtube.com/@Galah-Studio",
   Instagram: "https://www.instagram.com/galah.tv",
   X: "https://x.com/Galahtv",
   Behance: "https://www.behance.net/GalahStudio",
-  linkedin: "https://www.linkedin.com/in/sanidhyy",
-  github: "https://github.com/sanidhyy",
-  resume: "/resume.pdf",
-  source_code: "https://github.com/sanidhyy/portfolio",
-  email: "sanidhya.verma12345@gmail.com",
+  Linkedin: "https://www.linkedin.com/in/sanidhyy",
+  Github: "https://github.com/sanidhyy",
+  Resume: "/resume.pdf",
+  SourceCode: "https://github.com/sanidhyy/portfolio",
+  Email: "sanidhya.verma12345@gmail.com",
 } as const;
+
 
 // Data for work experience
 export const EXPERIENCES_DATA = [

@@ -11,7 +11,7 @@ const Footer = () => {
         &copy; {new Date().getFullYear()} <b>{OWNER_NAME.split(" ")[0]}</b> |
         All rights reserved |{" "}
         <Link
-          href={EXTRA_LINKS.source_code}
+          href={EXTRA_LINKS.SourceCode}
           className="font-semibold"
           target="_blank"
           rel="noreferrer noopener"

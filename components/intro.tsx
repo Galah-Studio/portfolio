@@ -31,7 +31,7 @@ const Intro = () => {
         </motion.div>
         <div className="flex justify-center space-x-4 mb-8">
           <Link href={EXTRA_LINKS.Youtube} target="_blank" rel="noreferrer noopener">
-            <FaYoutube className="text-3xl text-gray-600 hover:text-red-600" />
+          <FaYoutube className="text-3xl text-gray-600 hover:text-red-600" />
           </Link>
           <Link href={EXTRA_LINKS.Instagram} target="_blank" rel="noreferrer noopener">
             <FaInstagram className="text-3xl text-gray-600 hover:text-pink-600" />

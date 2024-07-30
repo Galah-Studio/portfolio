@@ -80,6 +80,22 @@
     {
       "type": "Buy me a coffee",
       "url": "https://www.buymeacoffee.com/sanidhy"
+    },
+    {
+      "type": "YouTube",
+      "url": "https://www.youtube.com/@Galah-Studio"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/galah.tv"
+    },
+    {
+      "type": "X",
+      "url": "https://x.com/Galahtv"
+    },
+    {
+      "type": "Behance",
+      "url": "https://www.behance.net/GalahStudio"
     }
   ]
 }
